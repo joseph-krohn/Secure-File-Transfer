@@ -20,7 +20,7 @@ This project is a simple yet secure file transfer application written in C#. It 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/SecureFileTransfer.git
+    git clone https://github.com/joseph-krohn/SecureFileTransfer.git
     ```
 
 2. **Navigate to the project directory:**
@@ -61,4 +61,4 @@ Feel free to submit issues, fork the repository, and make pull requests. Contrib
 
 ## Author
 
-**Joseph Krohn** - [Your GitHub Profile](https://github.com/yourusername)
+**Joseph Krohn** - [Your GitHub Profile](https://github.com/joseph-krohn)
